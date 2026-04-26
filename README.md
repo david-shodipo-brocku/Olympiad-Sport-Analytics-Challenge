@@ -87,13 +87,13 @@ All outputs — cleaned CSVs, plots, tables, and reports — will be written to 
 
 ## Analysis Overview
 
-### Task 1 — Data Cleaning & Quality Audit
+### Task 1 - Data Cleaning & Quality Audit
 - Identified and corrected four planted impossible values
 - Visualized missingness patterns; flagged MNAR (Missing Not At Random) in `VO2max` by sport
 - Retained real statistical outliers (Deanna Stellato-Dudek, age 42; Elana Meyers Taylor, age 41) with written justification
 - Applied sport-wise median imputation for EDA; fold-safe pipeline imputation for modeling
 
-### Task 2 — Exploratory Analysis (Q2.1–Q2.6)
+### Task 2 - Exploratory Analysis (Q2.1–Q2.6)
 Six analytical questions, each with a written interpretation and supporting tables/plots:
 
 | Question | Topic |
@@ -105,21 +105,21 @@ Six analytical questions, each with a written interpretation and supporting tabl
 | Q2.5 | GDP and winter-sport tradition as predictors of national success |
 | Q2.6 | Physiological signatures — VO2max, training load, and the overtraining plateau |
 
-### Task 3 — Medal Prediction Model
+### Task 3 - Medal Prediction Model
 - Binary classification: medal vs no medal (leakage-safe pipeline)
 - Models evaluated: Logistic Regression, Random Forest, Gradient Boosting
 - Best model: Logistic Regression at threshold 0.48 (AUC reported in `task3_model_comparison_leakage_safe.csv`)
 - Required athlete predictions for 7 named athletes including Mikaela Shiffrin, Connor McDavid, and Lucas Pinheiro Braathen
 - Written confusion matrix interpretation in `outputs/reports/task3_confusion_matrix_interpretation.md`
 
-### Task 4 — Business Insight Report
+### Task 4 - Business Insight Report
 Standalone one-page brief for the North American Winter Sports Consortium, covering:
 - USA (50.0%) vs Canada (37.5%) medal conversion gap
 - Three key findings: preseason form, sport-specific physiology, country systems
 - Three actionable recommendations for 2030
 - Explicit uplift estimate: closing 50% of the gap ≈ 3.0 additional medals
 
-### Bonus — Multi-Class Medal Prediction
+### Bonus - Multi-Class Medal Prediction
 Extended model predicting Gold / Silver / Bronze / None (4 classes).
 - Accuracy: 0.551 | Weighted F1: 0.624 | Macro F1: 0.321
 - Discussion in `outputs/reports/bonus_multiclass_model_discussion.md`
