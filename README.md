@@ -147,7 +147,7 @@ Standalone executive brief for the North American Winter Sports Consortium cover
 **Key numbers:**
 - USA medal conversion rate: **50.0%** (23 medals from 46 athletes)
 - Canada medal conversion rate: **37.5%** (18 medals from 48 athletes)
-- Gap: **12.5 percentage points** — an efficiency problem, not a roster-size problem
+- Gap: **12.5 percentage points** - an efficiency problem, not a roster-size problem
 
 **Three key findings:**
 1. Preseason World Cup form is the strongest observable predictor. Gold medalists entered Milan Cortina with a mean of 679 World Cup points vs 574 for non-medalists - a signal observable months before competition
