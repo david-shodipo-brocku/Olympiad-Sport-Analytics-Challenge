@@ -87,7 +87,7 @@ All outputs - cleaned CSVs, plots, tables, and reports - will be written to the 
 
 ## Analysis Overview
 
-### Task 1 — Data Cleaning and Quality Audit
+### Task 1 - Data Cleaning and Quality Audit
 
 - **Duplicates:** 3 duplicate records identified by full-row matching (excluding Athlete_ID) and removed, reducing the dataset from 390 to 387 rows
 - **Error correction:** 4 planted impossible values detected by exact match and corrected to sport-wise mean values to preserve sport-specific distributions
