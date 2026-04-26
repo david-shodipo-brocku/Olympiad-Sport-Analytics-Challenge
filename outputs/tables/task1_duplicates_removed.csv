@@ -1,0 +1,4 @@
+Athlete_ID,Athlete_Name,Country,Gender,Age,Sport,Previous_Olympics,Training_Hours_Per_Week,Altitude_Training_m,Body_Fat_Pct,VO2max,Reaction_Time_ms,Career_Injuries,World_Cup_Points_Preseason,Country_GDP_per_capita,Winter_Sport_Tradition_Index,Medal
+MC26_1275,Brandon Bernard,CHN,M,42.0,Ice Hockey,2.0,22.5,155.0,12.0,61.9,165.0,1.0,,13000,0.62,
+MC26_1356,Trevor Martin,FRA,M,37.0,Ice Hockey,1.0,23.2,,14.6,,219.0,5.0,,48000,0.87,
+MC26_1383,Lisa Martin,JPN,F,24.0,Alpine Skiing,2.0,26.2,1835.0,9.2,63.8,177.0,3.0,745.0,35000,0.74,

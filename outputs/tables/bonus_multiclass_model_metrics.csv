@@ -1,0 +1,2 @@
+model,accuracy,weighted_f1,macro_f1
+multiclass_logistic_regression,0.5512820512820513,0.6241973232952613,0.32128213281563794

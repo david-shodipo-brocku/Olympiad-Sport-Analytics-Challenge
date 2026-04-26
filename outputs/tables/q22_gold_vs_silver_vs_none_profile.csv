@@ -1,0 +1,6 @@
+,VO2max,VO2max,Training_Hours_Per_Week,Training_Hours_Per_Week,World_Cup_Points_Preseason,World_Cup_Points_Preseason,Previous_Olympics,Previous_Olympics,Age,Age,Altitude_Training_m,Altitude_Training_m,Body_Fat_Pct,Body_Fat_Pct,Reaction_Time_ms,Reaction_Time_ms
+,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean
+Medal_Group,,,,,,,,,,,,,,,,
+Gold,78.9,76.6,28.8,28.65,599.0,679.4,3.0,2.84,30.0,29.12,1457.0,1130.89,11.1,11.73,190.0,192.83
+None,65.1,66.46,24.3,24.72,595.0,574.32,2.0,2.09,31.0,31.36,1274.0,1086.02,11.75,11.94,190.0,191.2
+Silver_or_Bronze,71.6,73.89,27.6,27.54,595.0,618.48,2.0,2.55,32.0,32.2,1383.0,1172.45,11.4,11.61,190.0,191.98

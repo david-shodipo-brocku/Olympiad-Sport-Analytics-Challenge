@@ -1,0 +1,6 @@
+Metric,Value
+Rows (raw),390
+Rows (after dup removal),387
+Columns (final),24
+Impossible values fixed,4
+Duplicate rows removed,3

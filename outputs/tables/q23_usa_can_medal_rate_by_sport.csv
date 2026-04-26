@@ -1,0 +1,25 @@
+Country,Sport,Medals,Athletes,Medal_Rate,Medal_Rate_pct
+CAN,Alpine Skiing,0,4,0.0,0.0
+CAN,Biathlon,0,3,0.0,0.0
+CAN,Cross-Country,0,2,0.0,0.0
+CAN,Curling,2,2,1.0,100.0
+CAN,Figure Skating,0,1,0.0,0.0
+CAN,Freestyle Skiing,4,7,0.5714285714285714,57.1
+CAN,Ice Hockey,4,6,0.6666666666666666,66.7
+CAN,Luge,0,1,0.0,0.0
+CAN,Nordic Combined,0,1,0.0,0.0
+CAN,Short Track,3,5,0.6,60.0
+CAN,Snowboard,1,9,0.1111111111111111,11.1
+CAN,Speed Skating,4,7,0.5714285714285714,57.1
+USA,Alpine Skiing,5,10,0.5,50.0
+USA,Biathlon,0,2,0.0,0.0
+USA,Bobsleigh,2,3,0.6666666666666666,66.7
+USA,Cross-Country,3,5,0.6,60.0
+USA,Curling,0,2,0.0,0.0
+USA,Figure Skating,4,5,0.8,80.0
+USA,Freestyle Skiing,4,4,1.0,100.0
+USA,Ice Hockey,2,7,0.2857142857142857,28.6
+USA,Luge,0,1,0.0,0.0
+USA,Short Track,0,1,0.0,0.0
+USA,Snowboard,2,4,0.5,50.0
+USA,Speed Skating,1,2,0.5,50.0

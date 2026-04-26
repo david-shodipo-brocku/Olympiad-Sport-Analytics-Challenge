@@ -1,0 +1,12 @@
+actual,predicted,count
+None,Silver,8
+None,Bronze,7
+Gold,Silver,5
+None,Gold,4
+Silver,Gold,3
+Bronze,Silver,2
+Silver,Bronze,2
+Bronze,None,1
+Bronze,Gold,1
+Gold,None,1
+Gold,Bronze,1

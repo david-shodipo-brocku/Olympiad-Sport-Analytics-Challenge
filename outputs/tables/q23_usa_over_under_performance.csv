@@ -1,0 +1,13 @@
+Country,Sport,Medals,Athletes,Medal_Rate,Medal_Rate_pct,Athlete_Share_pct,Medal_Share_pct,Over_Under_pp
+USA,Freestyle Skiing,4,4,1.0,100.0,8.7,17.4,8.7
+USA,Figure Skating,4,5,0.8,80.0,10.9,17.4,6.5
+USA,Bobsleigh,2,3,0.6666666666666666,66.7,6.5,8.7,2.2
+USA,Cross-Country,3,5,0.6,60.0,10.9,13.0,2.1
+USA,Alpine Skiing,5,10,0.5,50.0,21.7,21.7,0.0
+USA,Snowboard,2,4,0.5,50.0,8.7,8.7,0.0
+USA,Speed Skating,1,2,0.5,50.0,4.3,4.3,0.0
+USA,Luge,0,1,0.0,0.0,2.2,0.0,-2.2
+USA,Short Track,0,1,0.0,0.0,2.2,0.0,-2.2
+USA,Biathlon,0,2,0.0,0.0,4.3,0.0,-4.3
+USA,Curling,0,2,0.0,0.0,4.3,0.0,-4.3
+USA,Ice Hockey,2,7,0.2857142857142857,28.6,15.2,8.7,-6.5
