@@ -92,7 +92,7 @@ All outputs - cleaned CSVs, plots, tables, and reports - will be written to the 
 - **Duplicates:** 3 duplicate records identified by full-row matching (excluding Athlete_ID) and removed, reducing the dataset from 390 to 387 rows
 - **Error correction:** 4 planted impossible values detected by exact match and corrected to sport-wise mean values to preserve sport-specific distributions
 - **Missing data:** Variables with missing values ranged from 6% to 26%. `Reaction_Time_ms` and `World_Cup_Points_Preseason` were classified as **MNAR** (Missing Not At Random) - both are systematically absent for sports where they are not applicable. Remaining variables were classified as **MCAR** and imputed using sport-wise means
-- **Outliers:** IQR and Z-score methods used. Deanna Stellato-Dudek (age 42, figure skating) and Elana Meyers Taylor (age 41, bobsleigh) were flagged but retained — both are legitimate elite veteran athletes whose removal would introduce bias
+- **Outliers:** IQR and Z-score methods used. Deanna Stellato-Dudek (age 42, figure skating) and Elana Meyers Taylor (age 41, bobsleigh) were flagged but retained - both are legitimate elite veteran athletes whose removal would introduce bias
 - **Feature engineering:** Three new variables created: `VO2_BodyFat_Efficiency` (VO2max / Body_Fat_Pct), `Experience_Load_Index` (Previous_Olympics × Training_Hours_Per_Week), `Resource_Tradition_Score` (GDP per capita × Winter_Sport_Tradition_Index)
 - **Before / after:** 390 rows → 387 rows; 17 columns → 24 columns (including engineered features and MNAR indicators); 310 missing or blank values → 0
 
