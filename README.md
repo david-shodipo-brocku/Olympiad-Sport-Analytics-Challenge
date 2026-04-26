@@ -54,7 +54,7 @@ All outputs - cleaned CSVs, plots, tables, and reports - will be written to the 
 
 **File:** `milan_cortina_2026_athletes.csv`  
 **Rows:** 390 athletes (387 after duplicate removal) across 14 winter sports  
-**Target variable:** `Medal` - Gold, Silver, Bronze, or None
+**Target variable:** `Medal` - Gold, Silver, Bronze, or None.
 
 | Column | Description |
 |---|---|
