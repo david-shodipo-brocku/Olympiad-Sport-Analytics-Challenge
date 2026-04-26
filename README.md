@@ -161,7 +161,7 @@ Standalone executive brief for the North American Winter Sports Consortium cover
 
 **Uplift estimate:** Closing 25% of the USA–Canada medal-rate gap → approximately **1.5 additional medals**. Closing 50% → approximately **3 additional medals**. Assumes stable 48-athlete roster and similar sport mix. Directional planning figures, not causal forecasts.
 
-### Bonus — Multi-Class Medal Prediction
+### Bonus - Multi-Class Medal Prediction
 
 Extended model predicting Gold / Silver / Bronze / None (4 classes) using the same leakage-safe pipeline and Logistic Regression with `class_weight="balanced"`.
 
@@ -171,7 +171,7 @@ Extended model predicting Gold / Silver / Bronze / None (4 classes) using the sa
 | Weighted F1 | 0.624 |
 | Macro F1 | 0.321 |
 
-The None class is identified reliably. Errors concentrate among neighbouring podium classes (Gold predicted as Silver, Silver predicted as Bronze) — the expected failure pattern given that real-world margins between first and second place are fractions of a second or a judge's score, none of which exist in tabular athlete data. The binary model remains the more reliable operational tool; the multi-class version provides a useful directional signal for distinguishing likely non-medalists from likely podium contenders.
+The None class is identified reliably. Errors concentrate among neighbouring podium classes (Gold predicted as Silver, Silver predicted as Bronze) - the expected failure pattern given that real-world margins between first and second place are fractions of a second or a judge's score, none of which exist in tabular athlete data. The binary model remains the more reliable operational tool; the multi-class version provides a useful directional signal for distinguishing likely non-medalists from likely podium contenders.
 
 Full discussion in `outputs/reports/bonus_multiclass_model_discussion.md`.
 
