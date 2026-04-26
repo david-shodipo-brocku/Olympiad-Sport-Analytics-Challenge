@@ -47,7 +47,7 @@ jupyter notebook Olympiad_final.ipynb
 
 Then **Run All Cells** (`Kernel → Restart & Run All`).
 
-All outputs — cleaned CSVs, plots, tables, and reports — will be written to the `outputs/` directory. Pre-generated outputs are already included so you can browse results without running the notebook.
+All outputs - cleaned CSVs, plots, tables, and reports — will be written to the `outputs/` directory. Pre-generated outputs are already included so you can browse results without running the notebook.
 
 ---
 
