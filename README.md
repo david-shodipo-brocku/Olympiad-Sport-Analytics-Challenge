@@ -103,7 +103,7 @@ Six analytical questions, each with a written interpretation and supporting tabl
 | Q2.3 | Sport portfolio: where should each nation focus for 2030? |
 | Q2.4 | Age and experience effects on medal probability |
 | Q2.5 | GDP and winter-sport tradition as predictors of national success |
-| Q2.6 | Physiological signatures — VO2max, training load, and the overtraining plateau |
+| Q2.6 | Physiological signatures: VO2max, training load, and the overtraining plateau |
 
 ### Task 3 - Medal Prediction Model
 - Binary classification: medal vs no medal (leakage-safe pipeline)
