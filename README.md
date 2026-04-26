@@ -128,11 +128,11 @@ Extended model predicting Gold / Silver / Bronze / None (4 classes).
 
 ## Key Findings
 
-1. **Preseason World Cup points are the strongest single predictor of medal success** — athletes already near the top internationally before the Games are consistently more likely to medal.
-2. **Physiology separates medalists from non-medalists differently by sport** — VO2max matters most in endurance disciplines (cross-country, biathlon); less so in technical disciplines (alpine skiing, figure skating).
-3. **The VO2max–training-load relationship plateaus** — athletes training at extreme volumes do not show proportionately higher aerobic capacity, consistent with overtraining literature.
-4. **Lucas Braathen (BRA) and Metodej Jilek (CZE) are the hardest cases** — both override their country/age priors through elite individual development pathways.
-5. **Norway's dominance is system-level** — leads simultaneously on tradition index, median VO2max, and preseason points across both equipment-intensive and endurance disciplines.
+1. **Preseason World Cup points are the strongest single predictor of medal success** - athletes already near the top internationally before the Games are consistently more likely to medal.
+2. **Physiology separates medalists from non-medalists differently by sport** - VO2max matters most in endurance disciplines (cross-country, biathlon); less so in technical disciplines (alpine skiing, figure skating).
+3. **The VO2max–training-load relationship plateaus** - athletes training at extreme volumes do not show proportionately higher aerobic capacity, consistent with overtraining literature.
+4. **Lucas Braathen (BRA) and Metodej Jilek (CZE) are the hardest cases** - both override their country/age priors through elite individual development pathways.
+5. **Norway's dominance is system-level** - leads simultaneously on tradition index, median VO2max, and preseason points across both equipment-intensive and endurance disciplines.
 
 ---
 
