@@ -78,10 +78,10 @@ All outputs — cleaned CSVs, plots, tables, and reports — will be written to 
 | `Medal` | Outcome: `Gold`, `Silver`, `Bronze`, or `None` |
 
 **Known planted errors corrected in Task 1:**
-- `Age = 9` — no Olympic athlete is 9 years old
-- `Training_Hours_Per_Week = 172` — exceeds hours in a week
-- `VO2max = -8.4` — physiologically impossible
-- `Body_Fat_Pct = 99.2` — incompatible with elite athletic performance
+- `Age = 9` - no Olympic athlete is 9 years old
+- `Training_Hours_Per_Week = 172` - exceeds hours in a week
+- `VO2max = -8.4` - physiologically impossible
+- `Body_Fat_Pct = 99.2` - incompatible with elite athletic performance
 
 ---
 
