@@ -8,11 +8,10 @@ An end-to-end data science project analyzing the Milan Cortina 2026 Winter Olymp
 ```
 Olympiad/
 ├── README.md                          ← You are here
-├── Olympiad_final.ipynb               ← Main analysis notebook (run this)
+├── Olympiad_Code.ipynb               ← Main analysis notebook (run this)
 ├── milan_cortina_2026_athletes.csv    ← Raw input dataset
 └── outputs/
     ├── milan_cortina_2026_athletes_cleaned_eda.csv       ← Cleaned data for EDA
-    ├── milan_cortina_2026_athletes_cleaned_model_base.csv← Cleaned data for modeling
     ├── plots/                         ← All generated figures (31 PNGs)
     ├── reports/                       ← Written analysis (6 Markdown files)
     └── tables/                        ← Summary CSVs for each question
