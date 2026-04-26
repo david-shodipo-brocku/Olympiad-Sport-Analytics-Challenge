@@ -1,0 +1,5 @@
+Athlete_ID,Athlete_Name,Column,Bad_Value,Action
+MC26_1170,Pierre Johnson,Age,9.0,set_to_nan
+MC26_1328,Kyle Thompson,Training_Hours_Per_Week,172.0,set_to_nan
+MC26_1176,Jonas Wilson,Body_Fat_Pct,99.2,set_to_nan
+MC26_1010,Nathan Fischer,VO2max,-8.4,set_to_nan

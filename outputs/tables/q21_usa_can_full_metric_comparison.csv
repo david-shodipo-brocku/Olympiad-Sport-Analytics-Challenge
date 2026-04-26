@@ -1,0 +1,5 @@
+,Training_Hours_Per_Week,Training_Hours_Per_Week,VO2max,VO2max,Altitude_Training_m,Altitude_Training_m,World_Cup_Points_Preseason,World_Cup_Points_Preseason,Previous_Olympics,Previous_Olympics,Career_Injuries,Career_Injuries,Body_Fat_Pct,Body_Fat_Pct,Reaction_Time_ms,Reaction_Time_ms,Country_GDP_per_capita,Country_GDP_per_capita,Winter_Sport_Tradition_Index,Winter_Sport_Tradition_Index,Won_Medal,Won_Medal
+,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean
+Country,,,,,,,,,,,,,,,,,,,,,,
+CAN,25.0,24.82,65.7,67.1,1397.0,1070.34,595.0,624.56,2.5,2.38,2.0,3.0,11.22,11.79,193.0,197.05,55000.0,55000.0,0.88,0.88,0.0,0.38
+USA,25.2,25.71,65.38,68.04,1577.5,1213.04,595.0,606.42,2.0,2.28,2.0,2.78,11.45,11.8,190.0,195.65,80000.0,80000.0,0.82,0.82,0.5,0.5

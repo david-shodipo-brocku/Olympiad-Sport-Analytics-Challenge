@@ -1,0 +1,15 @@
+# Task 3 - Required Athlete Prediction Analysis
+
+- **Connor McDavid** (CAN, Ice Hockey) — predicted medal probability 0.27. Model predicted **no medal**; actual outcome **Silver**; prediction was **incorrect**. Key signals: strong national winter-sport system.
+- **Courtney Sarault** (CAN, Short Track) — predicted medal probability 0.64. Model predicted **medal**; actual outcome **Silver**; prediction was **correct**. Key signals: strong national winter-sport system.
+- **Elana Meyers Taylor** (USA, Bobsleigh) — predicted medal probability 0.91. Model predicted **medal**; actual outcome **Gold**; prediction was **correct**. Key signals: veteran experience sustaining performance past typical peak.
+- **Jordan Stolz** (USA, Speed Skating) — predicted medal probability 0.94. Model predicted **medal**; actual outcome **Gold**; prediction was **correct**. Key signals: balanced profile where combined sport, country, physiology, and form signals drive the probability estimate.
+- **Lucas Pinheiro Braathen** (BRA, Alpine Skiing) — predicted medal probability 0.50. Model predicted **medal**; actual outcome **Gold**; prediction was **correct**. Key signals: exceptional athlete whose development pathway overrides Brazil's low tradition baseline.
+- **Metodej Jilek** (CZE, Speed Skating) — predicted medal probability 0.95. Model predicted **medal**; actual outcome **Gold**; prediction was **correct**. Key signals: strong preseason World Cup results, young emerging talent well below typical peak window, young breakout athlete demonstrating that talent can override the age-peak pattern.
+- **Mikaela Shiffrin** (USA, Alpine Skiing) — predicted medal probability 0.93. Model predicted **medal**; actual outcome **Gold**; prediction was **correct**. Key signals: balanced profile where combined sport, country, physiology, and form signals drive the probability estimate.
+
+## Why Braathen and Jilek are the two hardest cases in the dataset
+- Lucas Pinheiro Braathen (BRA) presents the country-context paradox: Brazil's GDP and winter-sport tradition index sit far below the Norway/Canada/USA cluster, yet Braathen wins gold in alpine skiing. The model has to work against the country prior to predict this correctly.
+- The correct analytical conclusion is not that Brazil has cracked the winter-sport code. Braathen's development pathway ran through the Norwegian system, so his result reflects elite individual trajectory rather than a national Brazilian winter-sport program.
+- Metodej Jilek (CZE) presents the age-context paradox: at 19 he sits well below the peak medal window identified in Q2.4, yet he medals. The model has to override the age signal with strong form and talent indicators.
+- Both cases demonstrate the same core insight: athlete-level pathway, current form, and technical ability can override country-level and age-level priors when the individual signal is strong enough.

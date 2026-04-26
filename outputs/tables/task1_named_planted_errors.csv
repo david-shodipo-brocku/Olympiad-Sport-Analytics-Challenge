@@ -1,0 +1,5 @@
+Column,Planted_Bad_Value,Athlete_ID,Athlete_Name,Country,Sport,Action
+Age,9.0,MC26_1170,Pierre Johnson,GBR,Ice Hockey,set_to_nan_before_imputation
+Training_Hours_Per_Week,172.0,MC26_1328,Kyle Thompson,SWE,Speed Skating,set_to_nan_before_imputation
+VO2max,-8.4,MC26_1010,Nathan Fischer,FIN,Short Track,set_to_nan_before_imputation
+Body_Fat_Pct,99.2,MC26_1176,Jonas Wilson,NED,Snowboard,set_to_nan_before_imputation
